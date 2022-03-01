@@ -1,6 +1,6 @@
 # DS_and_Algo_Python
              
-This repository contains 4 notebooks each of which explains different algorithms and data structures. These algorithms and data structures are alos implemented using python in the given notebooks.              
+This repository contains 4 notebooks each of which explains different algorithms and data structures. These algorithms and data structures are also implemented using python in the given notebooks.              
 Each notebook first explains the concepts behind data sturucture or algorithm and then python is used for there practical implimentation.               
 
 ## DS_&_Algo_Part1       
